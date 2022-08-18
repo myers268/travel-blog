@@ -5,7 +5,7 @@ export default function Home() {
   return (
     <div>
       <h1>Traveling With</h1>
-      <a href="trips/Oahu">Ohau</a>
+      <a href="trips/Oahu">Oahu</a>
     </div>
   );
 }

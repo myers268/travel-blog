@@ -12,7 +12,7 @@ export default function App({ Component }: AppProps) {
         <title>Traveling With</title>
         <meta
           name="description"
-          content="Traveling around the world with your's truly."
+          content="Traveling the world with your's truly."
         />
       </Head>
       <Component />
