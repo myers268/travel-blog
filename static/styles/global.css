@@ -1,0 +1,9 @@
+:root {
+  background-color: antiquewhite;
+  font-family: manrope;
+}
+
+@font-face {
+  font-family: "manrope";
+  src: url("/fonts/manrope/Manrope[wght].woff2") format("woff2");
+}
